@@ -79,7 +79,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item btn-danger"
-                href="tel:+390683933835"
+                href="tel:0683933835"
                 target="_blank"
                 rel="noopener noreferrer"
               >
