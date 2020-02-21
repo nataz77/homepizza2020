@@ -1,14 +1,10 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: La nostra pizza
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Una pizza lievitata naturalmente 72 ore
+description: Il nostro impasto viene creato con un mix di farine 00, integrale, ai cereali e lasciato poi riposare almeno 72 ore, per dare all'impasto .......................... 
 intro:
   blurbs:
     - image: /img/coffee.png
