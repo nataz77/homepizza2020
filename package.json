@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "homepizza2020",
+  "description": "Homepizza2020 website based on Netlify CMS",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Simone Natalini",
   "dependencies": {
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
