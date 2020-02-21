@@ -3,7 +3,7 @@ templateKey: index-page
 title: HomePizza
 image: /img/index.jpeg
 heading: Forno a legna e pizza a lunga lievitazione
-subheading: Support sustainable farming while enjoying a cup
+subheading: Forno a legna e pizza a lunga lievitazione
 mainpitch:
   title: Why Kaldi
   description: >
